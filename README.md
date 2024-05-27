@@ -47,7 +47,7 @@ Class Diagram:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Andrew-Ayman123/Flutter-Expenseo-Expense_Tracker.git
+    git clone https://github.com/Andrew-Ayman123/Flutter-Expenseo-App.git
     ```
 2. Install flutter depecndiceis  packages
     ```sh
