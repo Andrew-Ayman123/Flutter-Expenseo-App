@@ -1,7 +1,10 @@
 <div align="center">
 
   <h1> Expenseo - The Ultimate Expense Tracker</h1>
-  <img src="https://madewithlove.now.sh/eg?heart=true" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Made with love in Egypt">
   <h3>  Expenseo is a personal expense manager built in flutter with firebase as database, It user firebase email pass auth for authentication and firestore as storage</h3>
   
   <img src="./assets/diagrams/readme.jpg" alt="logo" height="600" />
@@ -34,13 +37,6 @@ Sequence Diagram for add transaction:
 Class Diagram: 
 
 <img src="./assets/diagrams/class_diagram.jpg" alt="logo" height="auto" />
-
-
-## :space_invader: Built With
-
--   ![Flutter]
--   ![Firebase]
--   ![Figma]
 
 
 ## :toolbox: Installation
